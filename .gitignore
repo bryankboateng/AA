@@ -1,0 +1,12 @@
+# Ignore all .log files
+*.log
+
+# Ignore the following
+Neural Net/test.py
+helloClassifier/helloClassifier.code-workspace
+
+
+# Ignore all .pyc files recursively
+**/*.pyc
+
+
